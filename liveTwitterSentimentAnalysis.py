@@ -82,8 +82,7 @@ df.head()
 #OUTPUT
 
 
-1 to 5 of 5 entries
-Filter
+
 
 index	Tweets
 0	RT @jimrossignol: Alternative theology: we have made the sun angry. We have falsely worshipped its enemies, coal and oil, who were imprison…
